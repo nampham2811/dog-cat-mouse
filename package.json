@@ -1,0 +1,10 @@
+{
+  "name": "1-commit",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "nampham <phamngocnam2811@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "chalk": "^2.4.1"
+  }
+}
